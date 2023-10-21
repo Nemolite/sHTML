@@ -23,3 +23,10 @@ for(let i = 0;i<=4;i++){
 for(let i of arr){
     console.log(i)
 }
+
+let arr5 = [3,4,56,6]
+
+let arr7 = [...arr5]
+console.log(arr7)
+
+
